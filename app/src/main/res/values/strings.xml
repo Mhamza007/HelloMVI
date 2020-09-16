@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloMVI</string>
+    <string name="your_email">Your email</string>
+    <string name="image">Image</string>
+    <string name="your_username">Your username</string>
+    <string name="the_title_of_a_blog">The Title of a Blog</string>
+    <string name="get_user">Get User</string>
+    <string name="get_blogs">Get Blogs</string>
+</resources>
